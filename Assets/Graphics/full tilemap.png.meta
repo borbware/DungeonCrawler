@@ -164,6 +164,12 @@ TextureImporter:
   - first:
       213: -4165690905533488598
     second: full tilemap_53
+  - first:
+      213: -8157243458808453123
+    second: full tilemap_54
+  - first:
+      213: 7012347917621308201
+    second: full tilemap_55
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1381,7 +1387,7 @@ TextureImporter:
       name: full tilemap_53
       rect:
         serializedVersion: 2
-        x: 80
+        x: 48
         y: 0
         width: 16
         height: 16
@@ -1394,6 +1400,48 @@ TextureImporter:
       bones: []
       spriteID: a22e993313e7036c0800000000000000
       internalID: -4165690905533488598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e75b0b46abce80800000000000000
+      internalID: -8157243458808453123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: full tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba44f274dd05160800000000000000
+      internalID: 7012347917621308201
       vertices: []
       indices: 
       edges: []
