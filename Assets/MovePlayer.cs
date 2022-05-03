@@ -65,10 +65,9 @@ public class MovePlayer : MonoBehaviour
     }
     void FixedUpdate() {
         _rigidBody.MovePosition(
-            transform.position + new Vector3(
+            _rigidBody.position + new Vector2(
                 _playerInput.x,
-                _playerInput.y,
-                0f
+                _playerInput.y
             ) * Time.deltaTime * speed
         );
     }
